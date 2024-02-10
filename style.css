@@ -71,6 +71,8 @@ header > p {
     font-size: 1.2em;
     padding-bottom: 50px;
     text-shadow: 2px  2px 0px black;
+    padding-bottom: 40px;
+    margin: auto;
 }
 
 header > h1 {
